@@ -9,9 +9,12 @@ The codes will be coming soon!
 
 If you find our work useful in your research, please consider citing:
 
-> @inproceedings{xia2021asfm ,
->   title={ASFM-Net: Asymmetrical Siamese Feature Matching Network for Point Completion},
->   author={Yaqi, Xia and Yan, Xia and Wei, Li and Rui, Song and Kailang, Cao and Uwe, Stilla},
->   booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
->   year={2021}
-> }
+```
+@inproceedings{xia2021asfm ,
+  title={ASFM-Net: Asymmetrical Siamese Feature Matching Network for Point Completion},
+  author={Yaqi, Xia and Yan, Xia and Wei, Li and Rui, Song and Kailang, Cao and Uwe, Stilla},
+  booktitle={Proceedings of the 29th ACM International Conference on Multimedia},
+  year={2021}
+}
+```
+
