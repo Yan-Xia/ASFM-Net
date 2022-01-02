@@ -1,5 +1,5 @@
 # ASFM-Net
-The codes for ACM Multimedia 2021 paper 'ASFM-Net: Asymmetrical Siamese Feature Matching Network for Point Completion'
+🔥🔥🔥  The codes for ACM Multimedia 2021 paper 'ASFM-Net: Asymmetrical Siamese Feature Matching Network for Point Completion'
 
 ## 1. Getting Started Instructions.
 + **Clone this project**
