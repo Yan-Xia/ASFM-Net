@@ -41,6 +41,8 @@ docker run -itd --rm --gpus device=1 -p 6006:6006 -v $PWD/../:/ASFM-Net --name a
 + We use the same dataset as [PCN: Point Cloud Completion Network](https://arxiv.org/abs/1808.00671).
 + Download the ShapeNet dataset in the `shapent` folder on [Google Drive](https://drive.google.com/drive/folders/1Y_tx3lrA2ivvM-bGxRO-TvbVBE8HoNPu) provided by PCN and unzip the dataset to folder `data`.
 ### **Step-3: ShapeNet Completion.**
+Download our trained model from [Googe Drive](https://drive.google.com/drive/folders/1r8x6jq1QCWJ9fvep604nMkexykqQGpT0?usp=sharing) for testing.
+Run `./shapenet_test` to test the accuracy of the model.
 Run `./shapent_completion.sh` to train and test ASFM-Net automatically. More specifically, the script will
 + compile the point cloud distance ops, grouping ops and sampling ops  
 + train ASFM-Net

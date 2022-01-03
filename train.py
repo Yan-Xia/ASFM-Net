@@ -126,7 +126,7 @@ def train(args):
         writer.add_summary(summary, step)
         if step % args.steps_per_print == 0:
             if step > step1:
-                print('epoch %d  step %d  chamfer loss %.8f - time per batch %.4f' %
+                print('epoch %d  step %d  model loss %.8f - time per batch %.4f' %
                     (epoch, step, loss, total_time / args.steps_per_print))
             else:
                 print('epoch %d  step %d  feature loss %.8f - time per batch %.4f' %
