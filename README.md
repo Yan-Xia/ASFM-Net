@@ -1,7 +1,11 @@
 # ASFM-Net
 🔥🔥🔥 The codes for ACM Multimedia 2021 paper 'ASFM-Net: Asymmetrical Siamese Feature Matching Network for Point Completion'. 
 
-🔥🔥🔥 ASFM-Net achieves the **1st** place in the leaderboard of Completion3D from April, 2021. 
+🔥🔥🔥 ASFM-Net achieves the **1st** place in the [leaderboard of Completion3D](https://completion3d.stanford.edu/results) from April, 2021. 
+
+This repository is the official implementation for paper:
+
+[**ASFM-Net: Asymmetrical Siamese Feature Matching Network for Point Completion**](https://dl.acm.org/doi/abs/10.1145/3474085.3475348)
 
 ## 1. Getting Started Instructions.
 + **Clone this project**
